@@ -17,13 +17,13 @@ MzShop坚持大道至简的原则，简化源代码，易于维护，主要特�
 >支持MzShop的用户，请到[GitHub](https://github.com/liuming9157/mzshop)上给我们一个` Star ` 
 ## Mzshop 官方QQ群
 + QQ群：147835195 
-+ 钉钉群：  
++ 钉钉群：进入QQ群后会有加群二维码 
 请勿在群里直接@群主和管理员  
 ## 捐赠我们
 MzShop致力于简化商城项目开发，您的支持是我们前进的动力！  
 如果您对我们的项目表示认同并且觉得有所帮助，欢迎您给与我们您的捐赠。  
 微信扫码捐赠  
-！[donate](http://cdn.mzyun.tech/donate.png)
+！[donate](http://cdn.mzyun.tech/paycode.png)
 ## 推荐学习
 因为MzShop是一个前后端全部开源的项目，需要对前后端均有一定基础的同学才会使用。我们推荐您学习以下项目：
 1. UniAPP  
