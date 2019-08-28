@@ -14,4 +14,4 @@ MzShop安装
 `http://mywebsite.com/api/index/system`  
 如果看到有数据返回，说明安装成功。
 ## 官网安装
-不会使用Git的可以直接到官网下载完整安装包，[下载地址](https://mzshop.mzyun.tech)  
+不会使用Git的可以直接到官网下载完整安装包，[官网下载地址](https://mzshop.mzyun.tech)  

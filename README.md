@@ -23,12 +23,12 @@ MzShop坚持大道至简的原则，简化源代码，易于维护，主要特�
 MzShop致力于简化商城项目开发，您的支持是我们前进的动力！  
 如果您对我们的项目表示认同并且觉得有所帮助，欢迎您给与我们您的捐赠。  
 微信扫码捐赠  
-！[donate](http://cdn.mzyun.tech/paycode.png)
+![donate](http://cdn.mzyun.tech/paycode.png)
 ## 推荐学习
 因为MzShop是一个前后端全部开源的项目，需要对前后端均有一定基础的同学才会使用。我们推荐您学习以下项目：
 1. UniAPP  
 UniAPP是一个基于Vue.js开发所有前端应用的框架，开发者编写一套代码，可发布到iOS、Android、H5、以及各种小程序（微信/支付宝/百度/头条/QQ/钉钉）等多个平台。  
 [UniAPP官方文档](https://uniapp.dcloud.io)
-2.FastAdmin  
+2. FastAdmin  
 FastAdmin是一个基于ThinkPHP5.0开发的后台管理框架，具有一键CRUD、一键生成菜单、一键压缩代码等功能。  
 [FastAdmin官方文档](https://doc.fastadmin.net)
