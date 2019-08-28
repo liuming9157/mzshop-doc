@@ -21,7 +21,7 @@ let res=await this.$get(url,'','POST');
 console.log(res);
 
 ```
-**注意使用\color{red}{await}$关键词，否则无法得到返回数据**
+**注意使用$\color{red}{await}$关键词，否则无法得到返回数据**  
 2. this.$msg函数  
 this.$msg是对uni.showToast函数的改写。
 改写后该函数一共有四个参数：
