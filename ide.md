@@ -12,4 +12,6 @@
 ## 前端开发工具
 + HBuilderX
 + scss编译插件
-[HbuilderX下载地址](https://www.dcloud.io/hbuilderx.html)    
++ 微信开发者工具(用于调试)
+[HbuilderX下载地址](https://www.dcloud.io/hbuilderx.html)  
+[微信开发者工具下载地址](https://developers.weixin.qq.com/miniprogram/dev/devtools/devtools.html)
